@@ -4,7 +4,7 @@
   Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando Engenharia de Software no quarto semestre e aprimorando minhas habilidades em Java e JavaScript. 🚀<br>
   Meu objetivo é criar soluções inteligentes e acessíveis, combinando design moderno e desenvolvimento eficiente.<br><br>
   🌱 Atualmente estudando: Java, JavaScript, e frameworks como ReactJS e Tailwind CSS.<br>
-  😄 Pronomes: **Ele/Dele**
+  😄 Pronomes: Ele/Dele
 </p>
 
 ---
