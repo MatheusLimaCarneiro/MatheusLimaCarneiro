@@ -12,7 +12,7 @@
 <h2 align="left">📊 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLimaCarneiro&show_icons=true&theme=gotham&hide_title=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLimaCarneiro&show_icons=true&theme=gotham&hide_title=true&random=123" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaCarneiro&layout=compact&theme=gotham" height="180" alt="Linguagens mais usadas" />
 </div>
 
