@@ -11,10 +11,9 @@
 
 <h2 align="left">📊 Minhas Estatísticas</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLimaCarneiro&show_icons=true&theme=gotham&hide_title=true&random=123" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaCarneiro&layout=compact&theme=gotham" height="180" alt="Linguagens mais usadas" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MatheusLimaCarneiro&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MatheusLimaCarneiro&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaCarneiro&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -43,5 +42,8 @@
   </a>
   <a href="https://discord.com/channels/matheuslimac2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+   <a href="mailto:matheuslimacarneirors@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
