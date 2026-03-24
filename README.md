@@ -9,10 +9,18 @@
 ---
 
 <h2 align="left">📊 Minhas Estatísticas</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLimaCarneiro&theme=tokyonight"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=MatheusLimaCarneiro&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MatheusLimaCarneiro&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaCarneiro&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusLimaCarneiro&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLimaCarneiro&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusLimaCarneiro&theme=tokyonight"/>
+</div>
 
 ---
 
